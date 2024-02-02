@@ -1,0 +1,8 @@
+# RÉGIONS
+
+| RÉGIONS | LIEU DE VOTE | ÉLECTEURS |
+| --------- |:-----:|:-----:|
+| [DAKAR](DAKAR) | 3 285 | 1 788 127 |
+| [DIOURBEL](DIOURBEL) | 1 463 | 635 793 |
+| [FATICK](FATICK) | 855 | 348 525 |
+| [KAFFRINE](KAFFRINE) | 676 | 268 124 |
