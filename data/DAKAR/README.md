@@ -1,0 +1,95 @@
+# Région de [DAKAR](DAKAR.csv)
+
+| TOTAL LIEU DE VOTE | TOTAL ÉLECTEURS |
+|:----------------:|:-----------------:|
+| 3 285 | 1 788 127 |
+
+# Totaux par Départements
+
+| DÉPARTEMENT | TOTAL LIEU DE VOTE | TOTAL ÉLECTEURS |
+| ------------ |:----------------:|:-----------------:|
+| DAKAR | 1 296 | 707 818 |
+| GUEDIAWAYE | 293 | 161 578 |
+| KEUR MASSAR | 460 | 249 588 |
+| PIKINE | 705 | 391 278 |
+| RUFISQUE | 531 | 277 865 |
+
+# Totaux par Communes
+
+## DAKAR
+
+| COMMUNES | LIEU DE VOTE | ÉLECTEURS |
+| --------- |:-----:|:-----:|
+| SICAP LIBERTE | 56 | 31 283 |
+| CAMBERENE | 45 | 25 731 |
+| GOREE | 4 | 2 276 |
+| BISCUITERIE | 75 | 37 562 |
+| MERMOZ SACRE COEUR | 46 | 25 180 |
+| GRAND YOFF | 152 | 83 943 |
+| H L M | 48 | 26 955 |
+| YOFF | 102 | 54 953 |
+| GUEULE TAPEE FASS CO | 73 | 39 075 |
+| PLATEAU | 71 | 39 063 |
+| GRAND DAKAR | 61 | 33 579 |
+| MEDINA | 93 | 50 735 |
+| NGOR | 19 | 10 589 |
+| PARCELLES ASSAINIES | 178 | 98 534 |
+| HANN BEL AIR | 65 | 35 755 |
+| DIEUPPEUL DERKLE | 52 | 28 947 |
+| PATTE D OIE | 47 | 25 414 |
+| OUAKAM | 73 | 40 865 |
+| FANN POINT E AMITIE | 36 | 17 379 |
+
+## GUEDIAWAYE
+
+| COMMUNES | LIEU DE VOTE | ÉLECTEURS |
+| --------- |:-----:|:-----:|
+| WAKHINANE NIMZAT | 96 | 52 259 |
+| SAM | 84 | 45 775 |
+| NDIAREME | 48 | 27 129 |
+| GOLF SUD | 24 | 13 415 |
+| MEDINA GOUNASS | 41 | 23 000 |
+
+## KEUR MASSAR
+
+| COMMUNES | LIEU DE VOTE | ÉLECTEURS |
+| --------- |:-----:|:-----:|
+| JAXAAY-PARCELLES | 31 | 17 215 |
+| MALIKA | 53 | 29 473 |
+| YEUMBEUL NORD | 108 | 61 129 |
+| KEUR MASSAR SUD | 58 | 29 564 |
+| YEUMBEUL SUD | 86 | 48 502 |
+| KEUR MASSAR NORD | 124 | 63 705 |
+
+## PIKINE
+
+| COMMUNES | LIEU DE VOTE | ÉLECTEURS |
+| --------- |:-----:|:-----:|
+| PIKINE NORD | 53 | 29 379 |
+| GUINAW RAIL SUD | 40 | 22 403 |
+| PIKINE OUEST | 71 | 37 737 |
+| MBAO | 93 | 52 826 |
+| DJIDA THIAROYE KAO | 85 | 47 480 |
+| DIAMAGUENE SICAP MBAO | 106 | 59 123 |
+| THIAROYE SUR MER | 52 | 28 104 |
+| DALIFORT | 36 | 19 891 |
+| TIVAOUANE DIAKSAO | 48 | 26 727 |
+| THIAROYE GARE | 42 | 24 179 |
+| GUINAW RAIL NORD | 30 | 17 077 |
+| PIKINE EST | 49 | 26 352 |
+
+## RUFISQUE
+
+| COMMUNES | LIEU DE VOTE | ÉLECTEURS |
+| --------- |:-----:|:-----:|
+| SENDOU | 4 | 2 081 |
+| RUFISQUE EST | 83 | 44 210 |
+| BARGNY | 64 | 29 632 |
+| YENE | 32 | 15 581 |
+| DIAMNIADIO | 30 | 15 136 |
+| RUFISQUE OUEST | 62 | 35 116 |
+| RUFISQUE NORD | 79 | 44 323 |
+| BAMBYLOR | 40 | 19 830 |
+| TIVAOUANE PEULH - NIAGA | 53 | 28 475 |
+| SANGALKAM | 49 | 26 320 |
+| SEBIKOTANE | 35 | 17 161 |
