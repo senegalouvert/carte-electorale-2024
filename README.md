@@ -6,7 +6,7 @@ Carte électorale, élection présidentielle du 25 février 2024
 
 Lieu de vote, nombre d'électeurs et implantation par régions, départements ou communes. Cliquez sur une région pour un rapide résumé.
 
-| RÉGIONS | ÉLECTEURS 2017 | ÉLECTEURS 2019 | ÉLECTEURS 2025 |
+| RÉGIONS | ÉLECTEURS 2017 | ÉLECTEURS 2019 | ÉLECTEURS 2024 |
 | --------- |:-----:|:-----:|:-----:|
 | [DAKAR](data/DAKAR) | 1 620 208 | 1 687 826 | 1 788 127 |
 
