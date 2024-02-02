@@ -2,15 +2,15 @@
 
 | TOTAL LIEU DE VOTE | TOTAL ÉLECTEURS |
 |:----------------:|:-----------------:|
-| 855 | 348 525 |
+| 851 | 348 525 |
 
 # Totaux par Département
 
 | DÉPARTEMENT | TOTAL LIEU DE VOTE | TOTAL ÉLECTEURS |
 | ------------ |:----------------:|:-----------------:|
-| FATICK | 400 | 171 291 |
-| FOUNDIOUGNE | 323 | 130 217 |
-| GOSSAS | 132 | 47 017 |
+| FATICK | 398 | 171 291 |
+| FOUNDIOUGNE | 322 | 130 217 |
+| GOSSAS | 131 | 47 017 |
 
 # Totaux par Communes
 
@@ -24,7 +24,7 @@
 | FIMELA | 29 | 13 791 |
 | NGAYOKHEME | 28 | 11 862 |
 | NDIOB | 21 | 8 003 |
-| PATAR | 29 | 10 923 |
+| PATAR | 28 | 10 923 |
 | NIAKHAR | 34 | 14 207 |
 | LOUL SESSENE | 24 | 9 343 |
 | DIAOULE | 17 | 6 159 |
@@ -33,7 +33,7 @@
 | MBELLACADIAO | 18 | 6 935 |
 | FATICK | 41 | 22 782 |
 | DIAKHAO | 6 | 3 348 |
-| DIARRERE | 32 | 12 928 |
+| DIARRERE | 31 | 12 928 |
 | PALMARIN FACAO | 12 | 4 850 |
 
 ## FOUNDIOUGNE
@@ -41,7 +41,7 @@
 | COMMUNES | LIEU DE VOTE | ÉLECTEURS |
 | --------- |:-----:|:-----:|
 | KARANG POSTE | 12 | 6 655 |
-| TOUBACOUTA | 38 | 15 393 |
+| TOUBACOUTA | 37 | 15 393 |
 | DIOSSONG | 23 | 9 225 |
 | DJILOR | 26 | 8 960 |
 | PASSI | 12 | 6 543 |
@@ -65,6 +65,6 @@
 | COLOBANE | 29 | 9 426 |
 | GOSSAS | 17 | 8 883 |
 | PATAR LIA | 20 | 6 900 |
-| MBAR | 36 | 10 659 |
+| MBAR | 35 | 10 659 |
 | OUADIOUR | 18 | 5 873 |
 | NDIENE LAGANE | 12 | 5 276 |
