@@ -2,14 +2,14 @@
 
 | TOTAL LIEU DE VOTE | TOTAL ÉLECTEURS |
 |:----------------:|:-----------------:|
-| 676 | 268 124 |
+| 675 | 268 124 |
 
 ## Totaux par Département
 
 | DÉPARTEMENT | TOTAL LIEU DE VOTE | TOTAL ÉLECTEURS |
 | ------------ |:----------------:|:-----------------:|
 | BIRKILANE | 128 | 51 085 |
-| KAFFRINE | 231 | 98 791 |
+| KAFFRINE | 230 | 98 791 |
 | KOUNGHEUL | 200 | 77 835 |
 | MALEM HODAR | 117 | 40 413 |
 
@@ -40,7 +40,7 @@
 | DIAMAGADIO | 23 | 8 119 |
 | GNIBY | 18 | 7 269 |
 | MEDINATOUL SALAM 2 | 24 | 8 515 |
-| KAFFRINE | 48 | 26 624 |
+| KAFFRINE | 47 | 26 624 |
 
 ### KOUNGHEUL
 
