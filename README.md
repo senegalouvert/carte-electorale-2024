@@ -8,26 +8,30 @@ Lieu de vote, nombre d'électeurs et implantation par régions, départements ou
 
 | RÉGIONS | ÉLECTEURS 2017 | ÉLECTEURS 2019 | ÉLECTEURS 2024 |
 | --------- |:-----:|:-----:|:-----:|
-| [DAKAR](data/DAKAR) | 1 620 208 | 1 687 826 | 1 788 127 |
+| [DAKAR](data/nationale/DAKAR) | 1 620 208 | 1 687 826 | 1 788 127 |
 
 ### Arborescence
 
 ```
 📁 data
   📗 carte-electorale-2024.xlsx
-  📁 région
-    📄 région.csv
-    📁 département
-      📄 commune.csv
+  📁 nationale
+    📁 région
+      📄 région.csv
+      📁 département
+        📄 commune.csv
+  📁 etranger
+    📁 pays
+      📄 Localité.csv
 ```
 
-### Fichier CSV
+### Fichier CSV nationale
 
 | DÉPARTEMENT | COMMUNES | LIEU DE VOTE | BUREAU | ÉLECTEURS | IMPLANTATION |
 | --------- |:-----:|:-----:|:-----:|:-----:|:-----:|
 |   xxxxx   | xxxxx | xxxxx | xxxxx | xxxxx | xxxxx |
 
-### Métadonnée
+### Métadonnée nationale
 
 ```
 * Départements
@@ -37,6 +41,12 @@ Lieu de vote, nombre d'électeurs et implantation par régions, départements ou
 * Nombre électeur
 * Implantation
 ```
+
+### Fichier CSV étranger
+
+| PAYS | LOCALITES | LIEU DE VOTE | BUREAU | ÉLECTEURS |
+| --------- |:-----:|:-----:|:-----:|:-----:|
+|   xxxxx   | xxxxx | xxxxx | xxxxx | xxxxx |
 
 ## Télécharger
 
