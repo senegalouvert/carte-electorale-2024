@@ -9,3 +9,4 @@
 | [KAOLACK](nationale/KAOLACK) | 1 055 | 464 438 |
 | [KEDOUGOU](nationale/KEDOUGOU) | 223 | 72 413 |
 | [KOLDA](nationale/KOLDA) | 695 | 265 611 |
+| [LOUGA](nationale/LOUGA) | 1 216 | 460 639 |
